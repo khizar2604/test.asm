@@ -1,1 +1,3 @@
 # test.asm
+hi
+test
